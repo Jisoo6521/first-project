@@ -16,7 +16,11 @@ namespace AOD
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
+<<<<<<< Updated upstream
             Application.Run(new NhanVien());
+=======
+            Application.Run(new Form1());
+>>>>>>> Stashed changes
         }
     }
 }

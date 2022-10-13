@@ -7,6 +7,7 @@ c:\users\administrator\documents\visual studio 2015\Projects\AOD\AOD\obj\Debug\A
 c:\users\administrator\documents\visual studio 2015\Projects\AOD\AOD\obj\Debug\AOD.csproj.GenerateResource.Cache
 c:\users\administrator\documents\visual studio 2015\Projects\AOD\AOD\obj\Debug\AOD.exe
 c:\users\administrator\documents\visual studio 2015\Projects\AOD\AOD\obj\Debug\AOD.pdb
+<<<<<<< Updated upstream
 D:\GitHub\first-project\AOD\AOD\bin\Debug\AOD.exe.config
 D:\GitHub\first-project\AOD\AOD\bin\Debug\AOD.exe
 D:\GitHub\first-project\AOD\AOD\bin\Debug\AOD.pdb
@@ -19,3 +20,5 @@ D:\GitHub\first-project\AOD\AOD\obj\Debug\AOD.exe
 D:\GitHub\first-project\AOD\AOD\obj\Debug\AOD.pdb
 D:\GitHub\first-project\AOD\AOD\obj\Debug\AOD.NhanVien.resources
 D:\GitHub\first-project\AOD\AOD\obj\Debug\AOD.Sach.resources
+=======
+>>>>>>> Stashed changes
