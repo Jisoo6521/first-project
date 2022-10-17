@@ -51,8 +51,8 @@ namespace NhaTroBoTu
             dap.Fill(table1);
             cmbLoaiPhong.DataSource = table1;
             cmbLoaiPhong.DisplayMember = "LoaiPhong";
-            //cmbLoaiPhong.ValueMember = "MaLoaiPhong";
-            cmbLoaiPhong.Text = "";
+            cmbLoaiPhong.ValueMember = "MaLoaiPhong";
+            cmbLoaiPhong.Text = "MaLoaiPhong";
             conn.Open();
             loaddata();
         }

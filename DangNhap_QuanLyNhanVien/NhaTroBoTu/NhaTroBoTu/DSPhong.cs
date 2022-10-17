@@ -22,8 +22,6 @@ namespace NhaTroBoTu
         SqlDataAdapter adapter = new SqlDataAdapter();
         DataTable tbpt = new DataTable();
         Database db;
-        DataSet ds=new DataSet();
-
         public DSPhong()
         {
             InitializeComponent();
