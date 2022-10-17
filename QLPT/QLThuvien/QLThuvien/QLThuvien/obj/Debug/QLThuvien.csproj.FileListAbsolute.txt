@@ -1,0 +1,21 @@
+D:\ThuchanhWin\19DTHC5\QLThuvien\QLThuvien\QLThuvien\bin\Debug\QLThuvien.exe.config
+D:\ThuchanhWin\19DTHC5\QLThuvien\QLThuvien\QLThuvien\bin\Debug\QLThuvien.exe
+D:\ThuchanhWin\19DTHC5\QLThuvien\QLThuvien\QLThuvien\bin\Debug\QLThuvien.pdb
+D:\ThuchanhWin\19DTHC5\QLThuvien\QLThuvien\QLThuvien\obj\Debug\QLThuvien.csprojAssemblyReference.cache
+D:\ThuchanhWin\19DTHC5\QLThuvien\QLThuvien\QLThuvien\obj\Debug\QLThuvien.frmNhanvien.resources
+D:\ThuchanhWin\19DTHC5\QLThuvien\QLThuvien\QLThuvien\obj\Debug\QLThuvien.Properties.Resources.resources
+D:\ThuchanhWin\19DTHC5\QLThuvien\QLThuvien\QLThuvien\obj\Debug\QLThuvien.csproj.GenerateResource.cache
+D:\ThuchanhWin\19DTHC5\QLThuvien\QLThuvien\QLThuvien\obj\Debug\QLThuvien.csproj.CoreCompileInputs.cache
+D:\ThuchanhWin\19DTHC5\QLThuvien\QLThuvien\QLThuvien\obj\Debug\QLThuvien.exe
+D:\ThuchanhWin\19DTHC5\QLThuvien\QLThuvien\QLThuvien\obj\Debug\QLThuvien.pdb
+D:\FileCode\TH Winform\QLThuvien\QLThuvien\QLThuvien\bin\Debug\QLThuvien.exe.config
+D:\FileCode\TH Winform\QLThuvien\QLThuvien\QLThuvien\bin\Debug\QLThuvien.exe
+D:\FileCode\TH Winform\QLThuvien\QLThuvien\QLThuvien\bin\Debug\QLThuvien.pdb
+D:\FileCode\TH Winform\QLThuvien\QLThuvien\QLThuvien\obj\Debug\QLThuvien.csproj.AssemblyReference.cache
+D:\FileCode\TH Winform\QLThuvien\QLThuvien\QLThuvien\obj\Debug\QLThuvien.csproj.SuggestedBindingRedirects.cache
+D:\FileCode\TH Winform\QLThuvien\QLThuvien\QLThuvien\obj\Debug\QLThuvien.frmNhanvien.resources
+D:\FileCode\TH Winform\QLThuvien\QLThuvien\QLThuvien\obj\Debug\QLThuvien.Properties.Resources.resources
+D:\FileCode\TH Winform\QLThuvien\QLThuvien\QLThuvien\obj\Debug\QLThuvien.csproj.GenerateResource.cache
+D:\FileCode\TH Winform\QLThuvien\QLThuvien\QLThuvien\obj\Debug\QLThuvien.csproj.CoreCompileInputs.cache
+D:\FileCode\TH Winform\QLThuvien\QLThuvien\QLThuvien\obj\Debug\QLThuvien.exe
+D:\FileCode\TH Winform\QLThuvien\QLThuvien\QLThuvien\obj\Debug\QLThuvien.pdb

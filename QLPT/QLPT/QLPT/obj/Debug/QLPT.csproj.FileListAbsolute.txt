@@ -1,0 +1,11 @@
+D:\FileCode\TH Winform\QLPT\QLPT\obj\Debug\QLPT.csproj.AssemblyReference.cache
+D:\FileCode\TH Winform\QLPT\QLPT\obj\Debug\QLPT.csproj.SuggestedBindingRedirects.cache
+D:\FileCode\TH Winform\QLPT\QLPT\obj\Debug\QLPT.QlyPhong.resources
+D:\FileCode\TH Winform\QLPT\QLPT\obj\Debug\QLPT.Properties.Resources.resources
+D:\FileCode\TH Winform\QLPT\QLPT\obj\Debug\QLPT.csproj.GenerateResource.cache
+D:\FileCode\TH Winform\QLPT\QLPT\obj\Debug\QLPT.csproj.CoreCompileInputs.cache
+D:\FileCode\TH Winform\QLPT\QLPT\bin\Debug\QLPT.exe.config
+D:\FileCode\TH Winform\QLPT\QLPT\bin\Debug\QLPT.exe
+D:\FileCode\TH Winform\QLPT\QLPT\bin\Debug\QLPT.pdb
+D:\FileCode\TH Winform\QLPT\QLPT\obj\Debug\QLPT.exe
+D:\FileCode\TH Winform\QLPT\QLPT\obj\Debug\QLPT.pdb

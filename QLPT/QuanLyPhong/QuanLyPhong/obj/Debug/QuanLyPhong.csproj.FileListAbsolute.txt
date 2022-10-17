@@ -1,0 +1,11 @@
+D:\FileCode\TH Winform\QuanLyPhong\QuanLyPhong\obj\Debug\QuanLyPhong.csproj.AssemblyReference.cache
+D:\FileCode\TH Winform\QuanLyPhong\QuanLyPhong\obj\Debug\QuanLyPhong.csproj.SuggestedBindingRedirects.cache
+D:\FileCode\TH Winform\QuanLyPhong\QuanLyPhong\obj\Debug\QuanLyPhong.Form1.resources
+D:\FileCode\TH Winform\QuanLyPhong\QuanLyPhong\obj\Debug\QuanLyPhong.Properties.Resources.resources
+D:\FileCode\TH Winform\QuanLyPhong\QuanLyPhong\obj\Debug\QuanLyPhong.csproj.GenerateResource.cache
+D:\FileCode\TH Winform\QuanLyPhong\QuanLyPhong\obj\Debug\QuanLyPhong.csproj.CoreCompileInputs.cache
+D:\FileCode\TH Winform\QuanLyPhong\QuanLyPhong\bin\Debug\QuanLyPhong.exe.config
+D:\FileCode\TH Winform\QuanLyPhong\QuanLyPhong\bin\Debug\QuanLyPhong.exe
+D:\FileCode\TH Winform\QuanLyPhong\QuanLyPhong\bin\Debug\QuanLyPhong.pdb
+D:\FileCode\TH Winform\QuanLyPhong\QuanLyPhong\obj\Debug\QuanLyPhong.exe
+D:\FileCode\TH Winform\QuanLyPhong\QuanLyPhong\obj\Debug\QuanLyPhong.pdb
